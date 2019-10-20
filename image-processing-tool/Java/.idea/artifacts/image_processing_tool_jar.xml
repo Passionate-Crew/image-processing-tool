@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="image-processing-tool:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/image_processing_tool_jar</output-path>
+    <root id="archive" name="image-processing-tool.jar">
+      <element id="module-output" name="image-processing-tool" />
+    </root>
+  </artifact>
+</component>
